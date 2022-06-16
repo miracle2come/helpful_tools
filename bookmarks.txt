@@ -1,0 +1,17 @@
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/expressions?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/repos/git/git-tags?view=azure-devops&tabs=browser
+https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-request-status?view=azure-devops
+https://www.visitmacedonranges.com/village/mount-macedon/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/repos/git/branch-policies-overview?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/docker?view=azure-devops
+https://gitversion.net/docs/
+https://docs.microsoft.com/en-us/devops/plan/how-microsoft-plans-devops
+https://git-lfs.github.com/
+https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-tutorial-linked-template?tabs=azure-powershell
+https://docs.microsoft.com/en-us/azure/devops/pipelines/test/test-analytics?view=azure-devops
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-tasks-overview
+https://docs.microsoft.com/en-us/azure/devops/boards/extensions/dependency-tracker?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/artifacts/how-to/delete-and-recover-packages?view=azure-devops&tabs=nuget
+https://docs.microsoft.com/en-us/azure/devops/artifacts/get-started-maven?view=azure-devops
