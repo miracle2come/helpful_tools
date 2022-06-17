@@ -44,3 +44,20 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema/?view=azure-
 https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/dotnet-core?view=azure-devops&tabs=dotnetfive
 https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=net%2Ctfs-2018-2%2Cbrowser
 https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=net%2Ctfs-2018-2%2Cbrowser
+https://www.youtube.com/watch?v=Bo5wcJnB8ro   Hashicorp Vault - Compare authentication methods
+https://docs.microsoft.com/en-us/azure/devops/pipelines/licensing/concurrent-jobs?view=azure-devops&tabs=ms-hosted
+https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication-managed-identity
+https://docs.microsoft.com/en-us/azure/devops/repos/git/merging-with-squash?view=azure-devops
+https://docs.microsoft.com/en-us/azure/devops/repos/git/merging-with-squash?view=azure-devops
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/sampling
+
+
+https://martinfowler.com/bliki/ContinuousDelivery.html
+ https://www.bmc.com/blogs/infrastructure-everything-code-changes-everything/
+ https://kb.iu.edu/d/amsv
+ https://digitalguardian.com/blog/what-principle-least-privilege-polp-best-practice-information-security-and-compliance
+ https://www.computerweekly.com/tip/Best-practices-for-audit-log-review-for-IT-security-investigations
+ https://techbeacon.com/app-dev-testing/why-developers-leave-big-name-software-companies
+https://medium.com/@Cycligent/giving-developers-autonomy-while-still-maintaining-order-in-a-distributed-team-c281e8bbb1d
+https://www.typeform.com/blog/guides/customer-success/track-9-customer-success-metrics/
+
